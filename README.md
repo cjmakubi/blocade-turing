@@ -1,2 +1,2 @@
 # blocade-turing
-a decentalized payement system straight from a social media.
+a decentalized payment system straight from a social media.
